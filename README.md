@@ -1,0 +1,1 @@
+The Provided data depicts the sales analysis of one of the cultural events of India. It provides complete Sales or financial analysis of the store and its sales over that particular event and how it affected the sales.
